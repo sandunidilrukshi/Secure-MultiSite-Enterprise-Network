@@ -2,7 +2,7 @@
 
 > **Designing, Configuring and Validating a Scalable Multi-Layer Enterprise Network using Cisco Packet Tracer**
 
-![Enterprise Network Topology](./screenshots/01_Final_Enterprise_Topology.png)
+![Enterprise Network Topology](./01_Final_Enterprise_Topology.png)
 
 ## 📌 Project Overview
 
